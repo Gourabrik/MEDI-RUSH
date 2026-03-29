@@ -108,8 +108,8 @@ Texibition Healthcare is a high-performance, full-stack digital infrastructure d
 
 ---
 
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📄 Deployment
+Deployment link (https://medirush-app.netlify.app/)
 
 ---
 
