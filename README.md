@@ -115,7 +115,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 **Project Lead**: [Gourab Biswas]
-**Project Link**: [https://github.com/your-username/texibition-healthcare](https://github.com/Gourabrik/MEDI-RUSH)
+**Project Link**: (https://github.com/Gourabrik)
 
 <p align="center">
   Built with ❤️ for a Healthier World
