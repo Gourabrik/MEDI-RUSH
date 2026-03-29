@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 ## 📞 Contact
-**Project Lead**: Gourab Biswas /n
+**Project Lead**: Gourab Biswas.
 **Project Link**: (https://github.com/Gourabrik)
 
 <p align="center">
