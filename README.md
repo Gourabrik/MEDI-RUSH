@@ -1,4 +1,4 @@
-# 🏥 Texibition Healthcare Platform
+# 🏥 MediRush
 
 > **The Future of Digital Health, Delivered Today.**
 
